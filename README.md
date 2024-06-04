@@ -4,4 +4,4 @@
 ##
 <h3><a href="#" >Linkedin</a></h3>  
 <h3>Clique aqui para acessar o projeto ➡️:<a href="https://camysn.github.io/Filter/">Filter.JS</h3>
-<img src="https://raw.githubusercontent.com/gist/CamysN/1a528317ca4ca1478f56401a41172223/raw/310263f0628bfb8c2fe15ee7866f43d996d0e47c/filter.JS.svg"/>
+<img src="https://raw.githubusercontent.com/gist/CamysN/6a13e05e43c5e8fde4bf710ddb2c556d/raw/c25ac2f1eb3fec95556e11dcf5edf27a85e99743/filter1.JS.svg"/>
